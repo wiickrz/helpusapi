@@ -1,0 +1,6 @@
+{
+  "/users*": "/600/users$1",
+  "/courses*": "/444/courses$1",
+  "/mentors*": "/444/mentors$1",
+  "/purchases*": "/600/purchases$1"
+}
